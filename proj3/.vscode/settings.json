@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "thread.h": "c",
+        "vaddr.h": "c",
+        "syscall.h": "c",
+        "frame.h": "c",
+        "page.h": "c",
+        "*.inc": "c"
+    },
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration"
+}
